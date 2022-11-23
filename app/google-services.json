@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730404112212",
+    "project_id": "notesplus-ae38f",
+    "storage_bucket": "notesplus-ae38f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730404112212:android:fa556836fd45c49340aac1",
+        "android_client_info": {
+          "package_name": "com.stasray.notesplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730404112212-boe8a5513c5b46p695eh618g7f9m4sai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClLjHV_WBpIbwLHlcL4sviPn0N6FjXJOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730404112212-boe8a5513c5b46p695eh618g7f9m4sai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
